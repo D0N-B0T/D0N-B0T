@@ -13,7 +13,7 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://github.com/vmfunc/vmfunc/blob/main/ransom.png?raw=true');
+background: url('[https://github.com/vmfunc/vmfunc/blob/main/ransom.png](https://i.4cdn.org/pol/1717815579033906.jpg)?raw=true');
 filter: blur(2px);
 mix-blend-mode: multiply;
 transform: rotate(15deg);
