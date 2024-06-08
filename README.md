@@ -1,5 +1,47 @@
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/vmfunc/vmfunc/blob/main/ransom.png?raw=true');]{x0000}$}
+\ce{
+$&#x5C;unicode[
+goombafont;
+color:red;
+pointer-events: none;
+z-index: -10;
+position: fixed;
+top: 0;
+left: 0;
+height: 100vh;
+object-fit: cover;
+background-size: cover;
+width: 130vw;
+opacity: 0.5;
+background: url('https://github.com/vmfunc/vmfunc/blob/main/ransom.png?raw=true');
+filter: blur(2px);
+mix-blend-mode: multiply;
+transform: rotate(15deg);
+box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.5);
+border: 5px solid black;
+animation: fadeIn 3s ease-in-out;
+transition: all 0.3s ease;
+margin: 0;
+padding: 0;
+clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
+backdrop-filter: grayscale(50%);
+overflow: hidden;
+visibility: visible;
+transform-origin: center;
+user-select: none;
+outline: none;
+cursor: not-allowed;
+text-shadow: 2px 2px 5px black;
+display: block;
+content: "";
+height: calc(100vh + 20px);
+width: calc(130vw + 20px);
+will-change: transform;
+perspective: 1000px;
+transform-style: preserve-3d;
+-webkit-font-smoothing: antialiased;
+]{x0000}$
+}
 ```
 
 <div align="center">
